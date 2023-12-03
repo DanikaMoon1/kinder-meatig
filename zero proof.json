@@ -1,0 +1,13 @@
+  "close": "Cerrar",
+  "is_this_free": "¿Es esto una entrega gratuita?",
+  "go_to_dashboard": "Ir al panel de control",
+  "go_to_wallet": "Ir a la Billetera",
+  "cannot_launch_url": "No se puede iniciar esta URL",
+  "upload_your_ipfs": "Subir a IPFS",
+  "yes": "Si",
+  "no": "No",
+
+
+import React from 'react';
+import { render } from 'react-dom';
+import browser from 'webextension-polyfill';
